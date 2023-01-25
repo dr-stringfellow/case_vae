@@ -17,7 +17,7 @@ import case_paths.path_constants.sample_dict_file_parts_input as sdi
 import case_paths.util.experiment as expe
 import case_paths.util.sample_factory as safa
 import util.data_generator as dage
-import sarewt.data_reader as dare
+import case_readers.data_reader as dare
 import case_paths.phase_space.cut_constants as cuts
 import training as tra
 

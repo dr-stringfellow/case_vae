@@ -1,5 +1,5 @@
 import numpy as np
-import sarewt.data_reader as dare
+import case_readers.data_reader as dare
 import case_paths.util.utility_fun as utfu
 
 
